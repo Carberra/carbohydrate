@@ -1,0 +1,4 @@
+hikari[speedups]==2.1.0
+hikari-crescent==1.1.0
+python-dotenv==1.0.1
+uvloop==0.20.0
